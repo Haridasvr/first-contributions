@@ -59,6 +59,7 @@ nowy wpis
 - [Trey_Crank](https://github.com/TreyTC)
 - [segoSambel] (https://github.com/segoSambel)
 - [JerryCodesAfrica] (https://github.com/JerryCodesAfrica)
+
 - [Aman Punia](https://github.com/m0dulat0r)
 - [Thanmai Sai](https://github.com/thanmaisai)
 - [Yash Chowdhury](https://github.com/xinkin)
@@ -1077,6 +1078,7 @@ nowy wpis
 - [Makakyla Soh](http://github.com/MakaylaSoh)
 - [Simeon Trust](https://github.com/Trust-007)
 - [Jay Froment-Rudder](https://github.com/jfromentrudder)
+  [JoshuaOkaka](https://github.com/JoshuaOkaka)
 - [Partha Sarathi Muduli](https://github.com/partha7978)
 - [Kanishk Chathley](https://github.com/can-ishk)
 - [Arjun R Warrier](https://github.com/arjunrwarrier)
